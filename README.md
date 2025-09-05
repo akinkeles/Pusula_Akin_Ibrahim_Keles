@@ -37,14 +37,14 @@ Ana Görevler
 - Target: TedaviSuresi (Seans)
 
 ## 🎯 Gerçekleştirilen Analizler
-1. Exploratory Data Analysis (EDA)
+# 1. Exploratory Data Analysis (EDA)
   - Veri yapısı ve kalite analizi
   - Missing value tespiti
   - Target değişkenin veri üzerindeki dağılımı
   - Korelasyona bakıldı
   - Görselleştirmeler (heatmaps, histogram.. gib)
 
-2. Data Pre-Processing
+# 2. Data Pre-Processing
   - Missing value imputasyonu
   - Kategorik bir değişken için (Yas) encoding
   - Verilerin normalizasyonu. (Dummy data temizliği)
