@@ -2,8 +2,8 @@
 Akın İbrahim Keleş - akin.ibrahim190@gmail.com
 
 ## 📌 Proje Hakkında
-Bu repository, Pusula Data Science Staj Case Study 2025 için hazırladığım çözümü içermektedir.  
-Amaç, hedef değişken (`TedaviSuresiNumeric`) etrafında veri setini temiz, tutarlı ve analiz edilebilir hâle getirmektir.  
+Bu repository, Pusula Data Science Staj Case Study 2025 için hazırladığım kodları içermektedir.  
+Amaç, hedef değişken (`TedaviSuresiNumeric`) etrafında veri setini temiz, tutarlı ve analiz edilebilir (modellemeye) hâle getirmektir.  
 Model eğitimi beklenmediğinden sadece 'Modele Hazır' hale getirildi.
 
 ## 📂 Dosya Yapısı
