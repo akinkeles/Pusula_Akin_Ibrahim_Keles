@@ -43,6 +43,7 @@ Ana Görevler
 - **Kayıt Sayısı:** 2,235 kayıt gözlemlendi
 - **Özellik Sayısı:** 13 sütun
 - **Target:** TedaviSuresi (Seans)
+- **Kaynak:** İletilen missing_uygulama datası
 
 ## 🎯 Gerçekleştirilen Analizler
 ### 1. Exploratory Data Analysis (EDA)
