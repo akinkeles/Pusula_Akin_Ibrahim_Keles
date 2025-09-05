@@ -22,7 +22,7 @@ Ana Görevler
 ## ⚙️ Kullanım
 1. Repository’yi klonlayın:
    ```bash
-   git clone https://github.com/YourUsername/Pusula_Akin_Ibrahim_Keles.git
+   git clone https://github.com/akinkeles/Pusula_Akin_Ibrahim_Keles.git
    cd Pusula_Akin_Ibrahim_Keles
 2. Gerekli Python kütüphanelerini yükleyin:
    ```bash
