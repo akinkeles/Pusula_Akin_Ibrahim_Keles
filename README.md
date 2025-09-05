@@ -7,17 +7,24 @@ Amaç, hedef değişken (`TedaviSuresiNumeric`) etrafında veri setini temiz, tu
 Model eğitimi beklenmediğinden sadece 'Modele Hazır' hale getirildi.
 
 ## 📂 Dosya Yapısı
-- `Pusula_CaseStudy_EDA_Preprocessing.ipynb` çalıştırılacak kod dosyası. 
+- `Pusula_CaseStudy_EDA_Preprocessing.ipynb` - Çalıştırılacak kod dosyası.
+- `missing_uygulama.xlsx` - Çalışmada kullanılar veri seti.
 - `Summary.pdf` - Çalışmanın özetini içeren doküman.  
-- `README.md` _ Proje açıklaması ve kullanım talimatları.
+- `README.md` - Proje açıklaması ve kullanım talimatları.
+- `requirements.txt` - Kodu çalıştırmak için gerekli olan kütüphaneler.
+
   
 ## ⚙️ Kullanım
 1. Repository’yi klonlayın:
    ```bash
    git clone https://github.com/YourUsername/Pusula_Akin_Ibrahim_Keles.git
    cd Pusula_Akin_Ibrahim_Keles
-2.Jupyter Notebook’u açın:
+2. Gerekli Python kütüphanelerini yükleyin:
    ```bash
-  jupyter notebook Pusula_CaseStudy_EDA_Preprocessing.ipynb
+   pip install -r requirements.txt
+4. Jupyter Notebook’u açın:
+   ```bash
+   jupyter notebook Pusula_CaseStudy_EDA_Preprocessing.ipynb
+
 
  
