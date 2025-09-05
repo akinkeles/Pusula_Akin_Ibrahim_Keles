@@ -31,5 +31,23 @@ Ana Görevler
    ```bash
    jupyter notebook Pusula_CaseStudy_EDA_Preprocessing.ipynb
 
+## 📈 Veri Seti Bilgileri
+- Kayıt Sayısı: 2,235 kayıt gözlemlendi
+- Özellik Sayısı: 13 sütun
+- Target: TedaviSuresi (Seans)
 
+## 🎯 Gerçekleştirilen Analizler
+1. Exploratory Data Analysis (EDA)
+  - Veri yapısı ve kalite analizi
+  - Missing value tespiti
+  - Target değişkenin veri üzerindeki dağılımı
+  - Korelasyona bakıldı
+  - Görselleştirmeler (heatmaps, histogram.. gib)
+
+2. Data Pre-Processing
+  - Missing value imputasyonu
+  - Kategorik bir değişken için (Yas) encoding
+  - Verilerin normalizasyonu. (Dummy data temizliği)
+  - Feature engineering. (Eklenen yeni özellikler var.)
+  - Model-ready data preparation. (Eski kategorik dataların temizlenmesi)
  
