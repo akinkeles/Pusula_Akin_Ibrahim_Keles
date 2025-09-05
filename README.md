@@ -11,7 +11,7 @@ Ana Görevler
 - Data preprocessing ve missing value handling
 - Model-ready data hazırlığı
 
-### 🔍 Key Findings
+### 🔍 Genel Bakış
 - **2,235 kayıt** başarıyla işlendi ve model-ready hale getirildi.
 - **Tedavi patterns:** %57 hasta 15-20 seans aralığında tedavi alıyor.
 - **Data quality:** %27 missing value problemi çözüldü.
