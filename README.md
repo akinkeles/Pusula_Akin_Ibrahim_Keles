@@ -40,9 +40,9 @@ Ana Görevler
    jupyter notebook Pusula_CaseStudy_EDA_Preprocessing.ipynb
 
 ## 📈 Veri Seti Bilgileri
-- Kayıt Sayısı: 2,235 kayıt gözlemlendi
-- Özellik Sayısı: 13 sütun
-- Target: TedaviSuresi (Seans)
+- **Kayıt Sayısı:** 2,235 kayıt gözlemlendi
+- **Özellik Sayısı:** 13 sütun
+- **Target:** TedaviSuresi (Seans)
 
 ## 🎯 Gerçekleştirilen Analizler
 ### 1. Exploratory Data Analysis (EDA)
