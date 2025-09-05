@@ -1,4 +1,4 @@
-# Pusula_AkinIbrahim_Keles
+# Pusula_Akin_Ibrahim_Keles
 Akın İbrahim Keleş - akin.ibrahim190@gmail.com
 
 ## 📌 Proje Hakkında
