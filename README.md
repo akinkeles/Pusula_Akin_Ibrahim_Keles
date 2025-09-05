@@ -17,6 +17,7 @@ Model eğitimi beklenmediğinden sadece 'Modele Hazır' hale getirildi.
    git clone https://github.com/YourUsername/Pusula_Akin_Ibrahim_Keles.git
    cd Pusula_Akin_Ibrahim_Keles
 2.Jupyter Notebook’u açın:
+   ```bash
   jupyter notebook Pusula_CaseStudy_EDA_Preprocessing.ipynb
 
  
