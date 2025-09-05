@@ -11,6 +11,14 @@ Ana Görevler
 - Data preprocessing ve missing value handling
 - Model-ready data hazırlığı
 
+### 🔍 Key Findings
+- **2,235 kayıt** başarıyla işlendi ve model-ready hale getirildi.
+- **Tedavi patterns:** %57 hasta 15-20 seans aralığında tedavi alıyor.
+- **Data quality:** %27 missing value problemi çözüldü.
+- **Feature engineering:** Text verilerden 8 adet numerik özellik türetildi.
+- **Final output:** Model için hazır dataset.
+
+
 ## 📂 Dosya Yapısı
 - `Pusula_CaseStudy_EDA_Preprocessing.ipynb` - Çalıştırılacak kod dosyası.
 - `missing_uygulama.xlsx` - Çalışmada kullanılar veri seti.
