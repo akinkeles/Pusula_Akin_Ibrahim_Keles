@@ -21,7 +21,7 @@ Ana Görevler
 
 ## 📂 Dosya Yapısı
 - `Pusula_CaseStudy_EDA_Preprocessing.ipynb` - Çalıştırılacak kod dosyası.
-- `missing_uygulama.xlsx` - Çalışmada kullanılar veri seti.
+- `Talent_Academy_Case_DT_2025.xlsx'` - Çalışmada kullanılar veri seti.
 - `Summary.pdf` - Çalışmanın özetini içeren doküman.  
 - `README.md` - Proje açıklaması ve kullanım talimatları.
 - `requirements.txt` - Kodu çalıştırmak için gerekli olan kütüphaneler.
